@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\bin\Debug\net8.0\TestProj.exe
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\bin\Debug\net8.0\TestProj.deps.json
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\bin\Debug\net8.0\TestProj.runtimeconfig.json
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\bin\Debug\net8.0\TestProj.dll
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\bin\Debug\net8.0\TestProj.pdb
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.sourcelink.json
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.dll
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\refint\TestProj.dll
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.pdb
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\TestProj.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\Corsi\S\TrovamiTest\TestProj\obj\Debug\net8.0\ref\TestProj.dll
